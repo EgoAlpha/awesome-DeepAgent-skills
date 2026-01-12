@@ -1,4 +1,6 @@
-<h1 align="center">Awesome Claude Skills</h1>
+# Awesome DeepAgent Skills
+
+![Awesome DeepAgent Skills Banner](assets/banner.jpeg)
 
 ## What Are Claude Skills?
 
