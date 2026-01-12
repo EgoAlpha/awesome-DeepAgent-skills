@@ -2,9 +2,9 @@
 
 ![Awesome DeepAgent Skills Banner](assets/banner.jpeg)
 
-## What Are Claude Skills?
+## What Are Agent Skills?
 
-**Claude Skills** (also known as Agent Skills) are modular, self-contained packages that extend an AI agent's capabilities with specialized knowledge, workflows, and executable tools.
+**Agent Skills** are modular, self-contained packages that extend an AI agent's capabilities with specialized knowledge, workflows, and executable tools.
 
 Unlike traditional "tools" which are often hard-coded functions, a Skill is a **standardized file structure** (a folder containing a `SKILL.md` instruction file and optional Python/Bash scripts). This architecture allows agents to:
 
