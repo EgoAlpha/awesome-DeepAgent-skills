@@ -18,6 +18,7 @@
   - [Communication & Writing](#communication--writing)
   - [Collaboration & Project Management](#collaboration--project-management)
   - [Data & AI](#data--ai)
+  - [Mathematics](#mathematics)
   - [Security & Testing](#security--testing)
 - [Getting Started](#getting-started)
 - [Using Skills in DeepAgents](#using-skills-in-deepagents)
@@ -275,6 +276,10 @@ A foundational "meta-skill" designed to scaffold and generate new Agent Skills. 
 - [hook-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/hook-development) - This skill should be used when the user asks to "create a hook", "add a PreToolUse/PostToolUse/Stop hook", "validate tool use", "implement prompt-based hooks", "use ${CLAUDE_PLUGIN_ROOT}", "set up event-driven automation", "block dangerous commands", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API.
 - [cookbook-audit](https://github.com/anthropics/claude-cookbooks/tree/main/.claude/skills/cookbook-audit) - Audit an Anthropic Cookbook notebook based on a rubric. Use whenever a notebook review or audit is requested.
 - [rag-implementation](https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/rag-implementation) - Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search. Use when implementing knowledge-grounded AI, building document Q&A systems, or integrating LLMs with external knowledge bases.
+
+### Mathematics
+
+- [symcli-skill](https://github.com/wowod/SymWork/tree/main/Skills/symcli-skill/SKILL.md) - Execute SymCLI to solve math equations, optimize tensor graphs, or analyze C# code for vulnerabilities. Turn your coding agent into an AI mathematician.
 
 ### Security & Testing
 
