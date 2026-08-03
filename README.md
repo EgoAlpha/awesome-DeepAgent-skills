@@ -111,6 +111,7 @@ A foundational "meta-skill" designed to scaffold and generate new Agent Skills. 
 ### Development & Architecture
 
 - [Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - Optimizes agent performance through advanced context engineering techniques, including context compression, degradation prevention, and multi-agent architectural patterns.
+- [suede-code](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-code) - Reviews code and returns evidence-backed findings, an A-F ship grade, OWASP checks, deployment-safety review, and fix briefs.
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Enables long-horizon task execution by using persistent markdown files (task_plan.md) for state management, progress tracking, and research storage.
 - [add-uint-support](https://github.com/pytorch/pytorch/tree/main/.claude/skills/add-uint-support) - Automates the addition of unsigned integer (uint16, uint32, uint64) support to PyTorch operators by updating `AT_DISPATCH` macros to include barebones unsigned types or V2 integral types.
 - [tailwind-design-system](https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/tailwind-design-system) - Build scalable design systems with Tailwind CSS, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implementing design systems, or standardizing UI patterns.
