@@ -248,6 +248,7 @@ A foundational "meta-skill" designed to scaffold and generate new Agent Skills. 
 ### Communication & Writing
 
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
+- [BulkPublish Social Media Content Skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) - Plan, adapt, review, schedule, and batch-publish social media content through BulkPublish's [API](https://app.bulkpublish.com/docs) and [MCP](https://mcp.bulkpublish.com/mcp) integrations.
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
 - [Content Research Writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, and providing section-by-section feedback.
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
