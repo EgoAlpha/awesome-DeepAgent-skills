@@ -244,6 +244,7 @@ A foundational "meta-skill" designed to scaffold and generate new Agent Skills. 
 - [Raffle Winner Picker](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
+- [Agent Skills En](https://github.com/alapha888/agent-skills-en) - Five MIT-licensed Agent Skills for everyday knowledge work: git commit messages, code review, deep research, meeting notes, and technical writing proofreading. Each skill is a self-contained SKILL.md package, installable with `npx skills add alapha888/agent-skills-en`.
 
 ### Communication & Writing
 
